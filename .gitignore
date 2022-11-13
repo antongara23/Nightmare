@@ -1,0 +1,6 @@
+#ignore db
+*.db
+*.log
+
+/target
+/bin
